@@ -18,7 +18,7 @@ A simple responsive web form project built with HTML, CSS, and JavaScript.
 - `index.html` — Main HTML file with the form.
 - `mycss.css` — Styles for layout, form, and responsiveness.
 - `myjs.js` — JavaScript for validation, formatting, and interactivity.
-- `eye.png`, `hide.png`, `instagram.png` — Images for UI icons and footer.
+- `eye.png`, `hide.png`, `github.png` — Images for UI icons and footer.
 
 ## Usage
 
